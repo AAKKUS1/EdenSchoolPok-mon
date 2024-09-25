@@ -1,26 +1,25 @@
 .boite {
-    border:solid 5px;
-    width: 60%;
-    height: 45rem;
-    border-radius: 8px;
-    margin-left: 20rem;
-    padding: 10px;
+	border: solid 5px;
+	width: 60%;
+	height: 45rem;
+	border-radius: 8px;
+	margin-left: 20rem;
+	padding: 10px;
 }
 
 .numc {
-    background-color: rgb(16, 143, 216);    
-    width:fit-content;
+	background-color: rgb(16, 143, 216);
+	width: fit-content;
 }
 .dex {
-    background-color: red;
-    width:fit-content;      
+	background-color: red;
+	width: fit-content;
 }
 .dern {
-    background-color: orange;
+	background-color: orange;
 }
 
-
 .imagedr {
-    width: 45%;
-    height: 55%;
+	width: 46%;
+	height: 55%;
 }
